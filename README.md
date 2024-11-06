@@ -4,7 +4,7 @@ This guide will walk you through the steps to use Loadster for performing load t
 
 ## Step 1: Register a Loadster Account
 
-First, go to the Loadster website and register for an account. Each account comes with 50 Loadster Fuel credits, which can be used for running load tests. **You do not need to spend any money on Loadster.**
+First, go to the [Loadster website](https://loadster.app/) and register for an account. Each account comes with 50 Loadster Fuel credits, which can be used for running load tests. **You do not need to spend any money on Loadster.**
 
 ## Step 2: Create a Browser Script
 
