@@ -54,7 +54,7 @@ Use a binary search approach to find the threshold of users the game can handle 
 
 After Test 5, I used all the Loadster Fuel credits available.
 
-**Recommendation**: Based on the binary search approach, the ideal user load for this game appears to be around 50-62 users.
+**Result**: Based on the binary search approach, the ideal user load for this game appears to be around 50-62 users.
 
 ---
 
