@@ -56,5 +56,5 @@ After Test 5, I used all the Loadster Fuel credits available.
 
 ---
 
-> **Note:** You do not need to spend any money on Loadster. Use the binary search method to find the approximate maximum user threshold, and report the final results based on the test outcomes.
+> **Note:** You do not need to spend any money on Loadster. You just need to experiment with your favorite method, and when the Loadster Fuel is exhausted, analyze the boundary value of the stress test according to the existing results.
 
