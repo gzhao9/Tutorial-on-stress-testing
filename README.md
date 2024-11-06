@@ -40,6 +40,8 @@ Next, initiate load testing by clicking on the **Load Testing** button and selec
 
 ## Step 6: Apply a Binary Search Method for Load Testing
 
+As an example, I'm using a dichotomy to find maximum capacity. You can also use the method you like.
+
 Use a binary search approach to find the threshold of users the game can handle before performance degrades. Run each test with a single group:
 ![image](https://github.com/user-attachments/assets/d638298d-1271-422e-b1b2-d31ff8b65077)
 
@@ -56,5 +58,5 @@ After Test 5, I used all the Loadster Fuel credits available.
 
 ---
 
-> **Note:** You do not need to spend any money on Loadster. You just need to experiment with your favorite method, and when the Loadster Fuel is exhausted, analyze the boundary value of the stress test according to the existing results.
+> **Note:** You do not need to spend any money on Loadster. You just need to experiment with your favorite method, and when the Loadster Fuel is exhausted, analyze the maximum capacity of the stress test according to the existing results.
 
