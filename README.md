@@ -1,10 +1,10 @@
 # Load Testing a Game on `efish-n-sea.github.io` Using Loadster
 
-This guide will walk you through the steps to use Loadster for performing load testing on a game hosted at `https://efish-n-sea.github.io/Pages/IDS/IDS.html`.
+This guide will walk you through the steps to use Loadster for performing load testing on a game hosted at [Moving Day](https://efish-n-sea.github.io/Pages/IDS/IDS.html).
 
 ## Step 1: Register a Loadster Account
 
-First, go to the Loadster website and register for an account. Each account comes with 50 Loadster Fuel credits, which can be used for running load tests.
+First, go to the Loadster website and register for an account. Each account comes with 50 Loadster Fuel credits, which can be used for running load tests. You do not need to spend any money on Loadster.
 
 ## Step 2: Create a Browser Script
 
